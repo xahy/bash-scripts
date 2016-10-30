@@ -1,6 +1,6 @@
 # BashScripts for some simple tasks
 
-## checksite.sh
+## [checksite.sh](https://github.com/xahy/bash-scripts/blob/master/checksite.sh)
 This script checks if the site is live or not. I use this to check for Maldives ebanking website mostly for obvious reasons 😒
 
 To run this file, run ./checksite.sh in the dir
